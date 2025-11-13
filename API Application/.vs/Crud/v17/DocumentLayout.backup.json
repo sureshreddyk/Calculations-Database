@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\premiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\model\\memberinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\model\\memberinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\model\\occupationrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\model\\occupationrating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\model\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\model\\occupation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|c:\\users\\naresh.golpola\\source\\repos\\crud\\crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56812DDE-CE60-4AA5-B991-F6FD5B581DAF}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PremiumController.cs",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Controllers\\PremiumController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\PremiumController.cs",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Controllers\\PremiumController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\PremiumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:56:32.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberInput.cs",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Model\\MemberInput.cs",
+              "RelativeDocumentMoniker": "Crud\\Model\\MemberInput.cs",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Model\\MemberInput.cs",
+              "RelativeToolTip": "Crud\\Model\\MemberInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:55:19.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OccupationRating.cs",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Model\\OccupationRating.cs",
+              "RelativeDocumentMoniker": "Crud\\Model\\OccupationRating.cs",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Model\\OccupationRating.cs",
+              "RelativeToolTip": "Crud\\Model\\OccupationRating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:54:40.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Occupation.cs",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Model\\Occupation.cs",
+              "RelativeDocumentMoniker": "Crud\\Model\\Occupation.cs",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Model\\Occupation.cs",
+              "RelativeToolTip": "Crud\\Model\\Occupation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:53:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\appsettings.json",
+              "RelativeToolTip": "Crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T12:51:09.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:26:27.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Naresh.Golpola\\source\\repos\\Crud\\Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:47:50.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
